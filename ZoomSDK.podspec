@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.author       = { "author" => "zvsx001@gmail.com" }
   s.platform     = :ios, "9.0"
 
-  s.source = { :http => 'https://github.com/zvs001/zoom-sdk-pods/releases/download/5.5.12511.0421/zoom-sdk-ios-5.5.12511.0421.zip' }
+  s.source = { :http => 'https://github.com/almahealth/zoom-sdk-pods/releases/download/5.5.12511.0421-crash/zoom-sdk-ios-5.5.12511.0421-crash.zip' }
 #   s.source_files  = "lib/**/*.{h,m}"
   s.requires_arc = true
 
