@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "ZoomSDKCrash"
-  s.version      = "5.5.12511.0421"
+  s.version      = "5.5.12511.0421-crash"
   s.summary      = "Pod for zoom-sdk-ios"
   s.description  = <<-DESC
                   Pod for zoom-sdk-ios.
